@@ -1,0 +1,9 @@
+---
+fr-FR: 
+    activerecord: 
+        models: 
+            panel: 
+                default_birthday_form_description: "Nous voulons célébrer votre anniversaire! Faites-nous savoir à quel moment nous pouvons vous envoyer un cadeau chaque année. \n\nAssurez-vous de nous le faire savoir au moins un mois à l'avance, sinon vous devrez attendre jusqu'à l'année prochaine."
+                default_birthday_form_year: "Année"
+                default_points_explainer_title: "{{points_program.points_label_plural}}"
+                default_points_explainer_description: "Gagnez plus de {{points_program.points_label_plural}} pour différentes actions et transformez ces {{points_program.points_label_plural}} en récompenses géniales!"
