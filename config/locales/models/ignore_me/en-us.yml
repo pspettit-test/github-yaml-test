@@ -1,0 +1,17 @@
+dismiss:
+  label: Dismiss
+footer:
+  powered_by_text: 'We reward with {brand}'
+empty_error_state:
+  vip:
+    title: 'No {vip_history_title}'
+    subtitle: You don't have any VIP activity yet.
+    link_description: Learn more about VIP tiers
+  rewards:
+    title: No rewards available
+    subtitle: You haven't earned any rewards yet.
+    link_description: Go back
+  referrals_history:
+    title: 'No {referrals_history_title}'
+    subtitle: You haven't made any referrals yet.
+    link_description: How do I make a referral?

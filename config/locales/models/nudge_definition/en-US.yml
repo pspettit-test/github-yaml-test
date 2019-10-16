@@ -1,0 +1,6 @@
+en-US:
+  activerecord:
+    models:
+      nudge_definition/bigcommerce_increase_points_spending_at_cart:
+          default_title: "Spend your {{points_program.points_label_plural}} today"
+          default_subtitle: "You have {{customer.points_balance_formatted}} available"
