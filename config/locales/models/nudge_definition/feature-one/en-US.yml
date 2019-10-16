@@ -6,3 +6,4 @@ en-US:
           more_details: "Here is some %s great details about the {{points_program.points_label_plural}} program."
           welcome_html: "<b>Welcome %{username}!</b>"
           line_break: "Here is one line!<br /><br />Here is another line!"
+          one_more_string: "Another string while a translation job is still in progress and the PR is still open."
