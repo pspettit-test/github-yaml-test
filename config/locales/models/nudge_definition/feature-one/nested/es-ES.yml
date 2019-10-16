@@ -1,0 +1,18 @@
+---
+dismiss: 
+    label: "Descartar"
+footer: 
+    powered_by_text: "Recompensamos con {brand}"
+empty_error_state: 
+    vip: 
+        title: "No {vip_history_title}"
+        subtitle: "Aún no tienes ninguna actividad VIP."
+        link_description: "Obtenga más información sobre los niveles VIP"
+    rewards: 
+        title: "Tienes {0} disponible"
+        subtitle: "Aún no has ganado ninguna recompensa."
+        link_description: "Regresa"
+    referrals_history: 
+        title: "No {referrals_history_title}"
+        subtitle: "Aún no has hecho ninguna referencia."
+        link_description: "¿Cómo hago una referencia?"

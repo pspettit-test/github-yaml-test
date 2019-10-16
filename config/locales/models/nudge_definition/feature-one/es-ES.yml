@@ -1,0 +1,10 @@
+---
+es-ES: 
+    activerecord: 
+        models: 
+            nudge_definition/bigcommerce_increase_points_spending_at_cart: 
+                default_title: "Gasta tu {{points_program.points_label_plural}} hoy"
+                more_details: "Aquí hay algunos detalles geniales de% s sobre el programa {{points_program.points_label_plural}}."
+                welcome_html: "<b> Bienvenido %{username}! </b>"
+                line_break: "Aquí hay una línea! <br /> <br />Aquí hay otra línea!"
+                one_more_string: "Otra cadena mientras un trabajo de traducción aún está en progreso y el RP aún está abierto."
