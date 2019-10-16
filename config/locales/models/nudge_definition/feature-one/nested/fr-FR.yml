@@ -1,0 +1,18 @@
+---
+dismiss: 
+    label: "Rejeter"
+footer: 
+    powered_by_text: "Nous récompensons avec {marque}"
+empty_error_state: 
+    vip: 
+        title: "Non {vip_history_title}"
+        subtitle: "Vous n'avez encore aucune activité VIP."
+        link_description: "En savoir plus sur les niveaux VIP"
+    rewards: 
+        title: "Vous avez {0} disponible"
+        subtitle: "Vous n'avez pas encore gagné de récompense."
+        link_description: "Retourner"
+    referrals_history: 
+        title: "Non {referrals_history_title}"
+        subtitle: "Vous n'avez pas encore fait de références."
+        link_description: "Comment puis-je faire une référence?"
